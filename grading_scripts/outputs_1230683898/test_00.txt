@@ -1,0 +1,6 @@
+Processes,Execution_Time
+1,53
+2,15
+4,12
+8,10
+16,10

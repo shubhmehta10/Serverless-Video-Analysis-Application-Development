@@ -1,0 +1,7 @@
+boto3
+ffmpeg
+ffmpeg-python
+numpy
+pillow
+requests
+opencv-python-headless
