@@ -21,7 +21,7 @@ The project builds an AWS Lambda-based video analysis application. The applicati
 ## Architecture
 The application consists of multiple stages implemented as AWS Lambda functions, supported by AWS S3 for data storage. Each video is processed through a series of functions that handle video splitting and face recognition.
 
-![Architecture Diagram](link-to-architecture-diagram) *(Replace with the actual diagram link if available)*
+![Architecture Diagram](image/diag.png)
 
 ## Components
 
