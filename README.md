@@ -1,4 +1,4 @@
-# Elastic Video Analysis Application using AWS Lambda
+# Serverless Video Analysis Application Development using AWS Lambda
 
 This project develops an elastic video analysis application that automatically scales on-demand using AWS Lambda and other supporting AWS services. The application processes videos through a multi-stage pipeline, leveraging serverless computing to provide a cost-effective and scalable solution.
 
